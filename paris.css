@@ -11,12 +11,30 @@ h4 {
     color: #ED2939;
     text-align: center;
 }
+h3 {
+        color: #ED2939;
+}
 
 img {
     display: block;
     margin: auto;
 }
 
+a {
+    color: #ED2939;
+}
+
+a:hover {
+    color:#FFFFFF;
+}
+
 figcaption {
     text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+}
+table td, table th {
+    border: solid black;
 }
